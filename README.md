@@ -1,4 +1,4 @@
-# Leads Tracker Chrome Extension
+# Leads Tracker Browser Extension Project
 
 This project is a real time, light weight browser extension that can help anyone to save & store the links of important links/leads from internet which can be later visited where they left off. This works like bookmarks but in a better way & can be used with any browser like Google Chrome, Microsoft Edge, Brave, Mozilla Firefox, etc. This project has extensive use of following technologies:
     
